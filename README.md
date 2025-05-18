@@ -61,7 +61,7 @@ Vai trò cá nhân: xây dựng phần trực quan hóa và trình bày số li�
 
 - `Fashion_Sales_Analysis.xlsx`: dữ liệu gốc
 - `Project_PowerBI.pbix`: file Dashboard Power BI
-- `Project_Report.pbix`: file báo cáo project
+- `Project_Report.pdf`: file báo cáo project
 ---
 
 
