@@ -3,6 +3,8 @@
 
 ## Giới thiệu
 
+Dự án làm việc nhóm của học phần **Trực quan hoá dữ liệu (Data Visualization)**
+
 Dự án này phân tích doanh số bán hàng trong ngành thời trang từ nhiều nền tảng thương mại điện tử khác nhau như Amazon, Flipkart, Myntra, Ajio, Nykaa, Meesho, v.v. Báo cáo được xây dựng bằng Power BI, nhằm trực quan hóa các chỉ số kinh doanh và hiểu rõ xu hướng mua sắm theo thời gian, theo giới tính, nền tảng và loại sản phẩm.
 
 ## Dữ liệu
