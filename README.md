@@ -39,8 +39,8 @@ Báo cáo Power BI gồm nhiều biểu đồ tương tác như:
 
 📷 Ảnh minh họa từ dashboard:
 
-![Dashboard](images/Dashboard_Overview.png)
-![Dashboard](images/Dashboard_Quanlity.png)
+![Dashboard Overview](images/Dashboard_Overview.png)
+![Dashboard Quanlity](images/Dashboard_Quanlity.png)
 
 ## 🛠 Công cụ sử dụng
 
