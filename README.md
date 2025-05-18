@@ -39,8 +39,8 @@ Báo cáo Power BI gồm nhiều biểu đồ tương tác như:
 
 📷 Ảnh minh họa từ dashboard:
 
-![Dashboard](images/Dashboard_Overview.png)
-![Dashboard](images/Dashboard_Quanlity.png)
+![Dashboard Overview](images/Dashboard_Overview.png)
+![Dashboard Quanlity](images/Dashboard_Quanlity.png)
 
 ## 🛠 Công cụ sử dụng
 
@@ -60,8 +60,8 @@ Vai trò cá nhân: xây dựng phần trực quan hóa và trình bày số li�
 ## File đính kèm
 
 - `Fashion_Sales_Analysis.xlsx`: dữ liệu gốc
-- `PowerBI_Report.pbix`: file báo cáo Power BI
-
+- `Project_PowerBI.pbix`: file Dashboard Power BI
+- `Project_Report.pdf`: file báo cáo project
 ---
 
 
