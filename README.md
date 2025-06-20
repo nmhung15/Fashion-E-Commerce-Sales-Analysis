@@ -35,7 +35,7 @@ File dữ liệu gốc: `Fashion_Sales_Analysis.xlsx`
 Báo cáo Power BI gồm nhiều biểu đồ tương tác như:
 
 - Biểu đồ cột: Doanh thu theo danh mục sản phẩm
-- Biểu đồ tròn: Tỷ lệ đơn hàng theo trạng thái
+- Biểu đồ tròn: Tỷ lệ đơn hàng theo nền tảng
 - Slicer lọc theo nền tảng và giới tính
 - Biểu đồ đường: Xu hướng doanh số theo thời gian
 
